@@ -23,7 +23,7 @@ Only one function
 
 When you fish for orb, it detects the text on the screen title to remind you that you got an orb
 
-Theoretically not a cheating mod
+Theoretically its a legit mod
 
 In game gui profile can be switched on and off at any time
 
