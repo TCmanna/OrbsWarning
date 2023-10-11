@@ -1,6 +1,8 @@
 **由于hypixel更新了大厅钓鱼机制 本项目封存**  
 **Due to hypixel's updated lobby fishing mechanism this project is closed**  
   
+***
+  
 练手项目  
 给hypixel主大厅钓鱼写的垃圾mod  
 只有一个功能  
