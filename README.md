@@ -1,19 +1,16 @@
-练手项目
-给hypixel主大厅钓鱼写的垃圾mod
-
-只有一个功能
-
-当你钓鱼钓上宝珠orb的时候 检测屏幕文字 来提醒你钓上宝珠了
-
-理论上来说应该是合法的
-
-内置gui配置文件可以随时开关
-
-支持中英文双环境 和本地化
-
-
-没了
-
+**由于hypixel更新了大厅钓鱼机制 本项目封存**  
+**Due to hypixel's updated lobby fishing mechanism this project is closed**  
+  
+练手项目  
+给hypixel主大厅钓鱼写的垃圾mod  
+只有一个功能  
+当你钓鱼钓上宝珠orb的时候 检测屏幕文字 来提醒你钓上宝珠了  
+理论上来说应该是合法的  
+内置gui配置文件可以随时开关  
+支持中英文双环境 和本地化  
+  
+没了  
+  
 The following is a translation
 
 This is a noob project
